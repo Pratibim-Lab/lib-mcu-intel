@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/8748:8748",
+  "name": "8748",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/8748.kicad_sym",
+  "description": "i8748, MCS-48 8-bit Microcontroller with Internal EPROM, 1KB EPROM, 64B RAM, DIP-40",
+  "datasheet": "",
+  "keywords": "MCS-48 uC Microcontroller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/8748/",
+  "part_path": "parts/8748",
+  "symbol_file": "parts/8748/8748.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.557Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/8087:8087",
+  "name": "8087",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/8087.kicad_sym",
+  "description": "Math Coprocessor for Intel 8086/8088/80186/80188 microprocessors, PDIP-40",
+  "datasheet": "http://datasheets.chipdb.org/Intel/x86/808x/datashts/8087/205835-007.pdf",
+  "keywords": "FPU",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/8087/",
+  "part_path": "parts/8087",
+  "symbol_file": "parts/8087/8087.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.521Z"
+}

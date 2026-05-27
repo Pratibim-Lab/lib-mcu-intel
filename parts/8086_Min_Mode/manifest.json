@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/8086_Min_Mode:8086_Min_Mode",
+  "name": "8086_Min_Mode",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/8086_Min_Mode.kicad_sym",
+  "description": "8086 (minimum mode), 16-Bit HMOS Microprocessor, PDIP-40",
+  "datasheet": "http://datasheets.chipdb.org/Intel/x86/808x/datashts/8086/231455-006.pdf",
+  "keywords": "MPRO",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/8086_Min_Mode/",
+  "part_path": "parts/8086_Min_Mode",
+  "symbol_file": "parts/8086_Min_Mode/8086_Min_Mode.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.516Z"
+}

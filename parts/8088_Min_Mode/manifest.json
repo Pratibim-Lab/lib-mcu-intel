@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/8088_Min_Mode:8088_Min_Mode",
+  "name": "8088_Min_Mode",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/8088_Min_Mode.kicad_sym",
+  "description": "8088 (minimum mode), 8-Bit HMOS Microprocessor, PDIP-40",
+  "datasheet": "http://datasheets.chipdb.org/Intel/x86/808x/datashts/8088/231456-006.pdf",
+  "keywords": "MPRO",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "8088",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/8088_Min_Mode/",
+  "part_path": "parts/8088_Min_Mode",
+  "symbol_file": "parts/8088_Min_Mode/8088_Min_Mode.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.533Z"
+}

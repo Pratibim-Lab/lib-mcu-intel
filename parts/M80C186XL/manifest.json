@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/M80C186XL:M80C186XL",
+  "name": "M80C186XL",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/M80C186XL.kicad_sym",
+  "description": "16-Bit High-Integration Embedded Processor",
+  "datasheet": "http://datasheets.chipdb.org/Intel/x86/8018x/datashts/80186/27127602.pdf",
+  "keywords": "MPRO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/M80C186XL/",
+  "part_path": "parts/M80C186XL",
+  "symbol_file": "parts/M80C186XL/M80C186XL.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.586Z"
+}

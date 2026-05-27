@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/8035:8035",
+  "name": "8035",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/8035.kicad_sym",
+  "description": "MCS-48 8-bit Microcontroller, No (EP)ROM, 64B RAM, DIP-40",
+  "datasheet": "",
+  "keywords": "MCS-48 uC Microcontroller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/8035/",
+  "part_path": "parts/8035",
+  "symbol_file": "parts/8035/8035.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.477Z"
+}

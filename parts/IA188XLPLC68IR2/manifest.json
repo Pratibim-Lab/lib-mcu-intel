@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/IA188XLPLC68IR2:IA188XLPLC68IR2",
+  "name": "IA188XLPLC68IR2",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/IA188XLPLC68IR2.kicad_sym",
+  "description": "MCU Replacement for Intel 80C188XL",
+  "datasheet": "http://www.innovasic.com/upload/products/Innovasic_IA186XL_IA188XL_Data_Sheet_20110706_2.pdf",
+  "keywords": "MPRO",
+  "footprint": "",
+  "extends": "80C188",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/IA188XLPLC68IR2/",
+  "part_path": "parts/IA188XLPLC68IR2",
+  "symbol_file": "parts/IA188XLPLC68IR2/IA188XLPLC68IR2.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.576Z"
+}

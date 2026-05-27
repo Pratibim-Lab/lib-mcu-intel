@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/I386EX_PQFP:I386EX_PQFP",
+  "name": "I386EX_PQFP",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/I386EX_PQFP.kicad_sym",
+  "description": "Intel I386EX Embedded microprocessor, PQFP-132",
+  "datasheet": "",
+  "keywords": "MPRO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/I386EX_PQFP/",
+  "part_path": "parts/I386EX_PQFP",
+  "symbol_file": "parts/I386EX_PQFP/I386EX_PQFP.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.566Z"
+}

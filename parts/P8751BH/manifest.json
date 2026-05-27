@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/P8751BH:P8751BH",
+  "name": "P8751BH",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/P8751BH.kicad_sym",
+  "description": "MCS-51 8-bit Control-Oriented Microcontrollers, 4K x 8 EPROM, 128 x 8 RAM, 2x 16-bit timers / event counters, 12MHz, DIP-40",
+  "datasheet": "https://www.datasheetarchive.com/datasheet/MCS%2051/Intel",
+  "keywords": "8051 NMOS HMOS Obsolete",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/P8751BH/",
+  "part_path": "parts/P8751BH",
+  "symbol_file": "parts/P8751BH/P8751BH.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.609Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/8048:8048",
+  "name": "8048",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/8048.kicad_sym",
+  "description": "MCS-48 8-bit Microcontroller, 1KB Mask ROM, 64B RAM, DIP-40",
+  "datasheet": "",
+  "keywords": "MCS-48 uC Microcontroller",
+  "footprint": "",
+  "extends": "8035",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/8048/",
+  "part_path": "parts/8048",
+  "symbol_file": "parts/8048/8048.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.484Z"
+}

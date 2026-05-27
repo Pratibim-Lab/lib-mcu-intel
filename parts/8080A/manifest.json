@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/8080A:8080A",
+  "name": "8080A",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/8080A.kicad_sym",
+  "description": "8-bit N-channel Microprocessor, DIP-40",
+  "datasheet": "http://datasheets.chipdb.org/Intel/MCS-80/intel-8080.pdf",
+  "keywords": "cpu mpu microprocessor",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "8080",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/8080A/",
+  "part_path": "parts/8080A",
+  "symbol_file": "parts/8080A/8080A.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.506Z"
+}

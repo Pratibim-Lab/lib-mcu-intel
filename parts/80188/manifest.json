@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/80188:80188",
+  "name": "80188",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/80188.kicad_sym",
+  "description": "High-Integration 16-Bit Microprocessor",
+  "datasheet": "http://datasheets.chipdb.org/Intel/x86/8018x/datashts/27243002.PDF",
+  "keywords": "MPRO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/80188/",
+  "part_path": "parts/80188",
+  "symbol_file": "parts/80188/80188.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.474Z"
+}

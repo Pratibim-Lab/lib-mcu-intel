@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/P8031AH:P8031AH",
+  "name": "P8031AH",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/P8031AH.kicad_sym",
+  "description": "MCS-51 8-bit Control-Oriented Microcontrollers, ROMless, 128 x 8 RAM, 2x 16-bit timers / event counters, 12MHz, DIP-40",
+  "datasheet": "https://www.datasheetarchive.com/datasheet/MCS%2051/Intel",
+  "keywords": "8051 NMOS HMOS Obsolete",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "P8051AH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/P8031AH/",
+  "part_path": "parts/P8031AH",
+  "symbol_file": "parts/P8031AH/P8031AH.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.590Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Intel/M80C186:M80C186",
+  "name": "M80C186",
+  "library": "MCU_Intel",
+  "file": "MCU_Intel.kicad_symdir/M80C186.kicad_sym",
+  "description": "CHMOS High-Integration 16-Bit Microprocessor",
+  "datasheet": "http://datasheets.chipdb.org/Intel/x86/8018x/datashts/80186/27050008.PDF",
+  "keywords": "MPRO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-intel@master/parts/M80C186/",
+  "part_path": "parts/M80C186",
+  "symbol_file": "parts/M80C186/M80C186.kicad_sym",
+  "source_library": "MCU_Intel.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:05.581Z"
+}
